@@ -1,0 +1,54 @@
+/* 
+    RESET
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 
+    GENERAL
+*/
+
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.black {
+    background-color: black;
+    border: 1px solid black;
+    padding: 20px;
+    height: 78.58px;
+}
+
+.red {
+    background-color: red;
+    border: 1px solid black;
+    padding: 20px;
+    height: 78.58px;
+}
+
+.white {
+    background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+    height: 78.58px;
+}
+
+.box {
+    background-color: white;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.box.black {
+    background-color: black;
+    border: 1px solid black;
+}
