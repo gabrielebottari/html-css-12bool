@@ -35,5 +35,23 @@ html {
     border: 1px solid #006CFA;
 }
 
+.center {
+    justify-content: center;
+}
 
+.end {
+    justify-content: flex-end;
+}
+
+.noborder {
+    border: none;
+}
+
+.middle {
+    align-items: center;
+}
+
+.bottom {
+    align-items: end;
+}
 
