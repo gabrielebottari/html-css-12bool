@@ -55,3 +55,10 @@ html {
     align-items: end;
 }
 
+.around {
+    justify-content: space-around;
+}
+
+.between {
+    justify-content: space-between;
+}
